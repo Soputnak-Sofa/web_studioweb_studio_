@@ -1,0 +1,128 @@
+.logo {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2196F3;
+}
+.header-logo {
+    color: #000000;
+}
+
+.nav-list-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #212121;
+}
+
+.contacts-list-link {
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #757575;
+}
+
+.nav-list-link:hover, .contacts-list-link:hover {
+    width: 122px;
+    height: 16px;
+    top: 32px;
+    left: 1263px;
+    width: 135px;
+    height: 16px;
+    top: 32px;
+    left: 1078px;
+}
+
+.section-hero-title {
+font-family: Roboto;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0.06em;
+text-align: center;
+}
+
+.section-hero-btn {
+    width: 1600px;
+    height: 600px;
+    top: 80px;
+}
+
+.features-list-title {
+    width: 1170px;
+    height: 98px;
+    top: 774px;
+    left: 215px;
+}
+
+.features-list-text {
+    width: 1170px;
+    height: 98px;
+    top: 774px;
+    left: 215px;
+}
+
+.work-list {
+    width: 270px;
+    height: 260px;
+    top: 1632px;
+    left: 215px;
+}
+
+.team-title {
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+
+.team-list-title {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;     
+}
+
+.team-list-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    text-align: center;    
+}
+
+.work-title {
+width: 1170px;
+height: 386px;
+top: 966px;
+left: 215px;
+    
+}
+
+.team-list {
+width: 1170px;
+height: 368px;
+top: 1632px;
+left: 215px;
+}
+
+.work-list {
+width: 270px;
+height: 260px;
+top: 1632px;
+left: 1115px;
+}
